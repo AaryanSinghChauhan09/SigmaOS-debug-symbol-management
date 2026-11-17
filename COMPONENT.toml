@@ -3,7 +3,7 @@ name = "SigmaOS-debug-symbol-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "debug-symbol-management component"
+description = "Debug Symbol Management"
 upstream = []
 
 [contract]
